@@ -1,2 +1,9 @@
 Co to są zmienne ?
 Zmienne są to nasze kontenery w ktorych przechowujemy nasze wartości .
+
+To jest string - > "Jestem Dawid"
+
+Czasami zmienne sa wykorzystywane dla samego srodowiska programowania bez
+implementowania jego wartosci .
+
+

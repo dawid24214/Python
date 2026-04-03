@@ -6,3 +6,7 @@ live = 5 + 5
 print(live)
 print("Drukuje")
 
+
+
+
+
